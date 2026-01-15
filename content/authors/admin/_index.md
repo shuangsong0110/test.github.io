@@ -36,9 +36,9 @@ profiles:
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/in/
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/citations?&user=il36IMQAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=5-3t3mYAAAAJ&view_op=list_works&sortby=pubdate)
+    url: https://scholar.google.com/citations?hl=zh-CN&user=5-3t3mYAAAAJ&view_op=list_works&sortby=pubdate
   #- icon: academicons/orcid
-  #  url: https://orcid.org/0000-0002-8295-5534
+  #  url: https://orcid.org/
 
 interests:
   - Deep Learning
