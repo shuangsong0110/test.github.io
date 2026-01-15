@@ -11,7 +11,7 @@ last_name: Last
 
 # Status emoji
 status:
-  icon: 
+  icon: "🧬"
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning Research Fellow
+role: Postdoctral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Biogen
+  - name: Harvard University
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -41,31 +41,39 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Deep Learning
+  - Statistical Genetics / Genomics
+  - Bayesian Methodology
+  - High-dimensional Data Theory
+  - Whole-genome Sequencing Analysis
   - AI4Science
-  - AI For Drug Discovery
-  - Generative AI
-  - Reinforcement Learning
-  - Fairness
 
 education:
-  - area: PhD in Computer Science
-    institution: Brandeis University
-    date_start: 2020-01-15
-    date_end: 2025-02-01
-    summary: |
-      - GPA: 4.0/4.0
-      - Research Focus: AI4Science, Molecular Representational Learning, Fairness within Medical Contexts
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-  - area: BS in Mathematics
+  - degree: Postdoctoral Researcher
+    institution: Harvard University
+    start: 2024-01-01
+    #end: '2024'
+    #date_display: '2024 - Present'
+    #summary: '2022 - Present'  
+  - degree: Ph.D. in Statistics
     institution: Tsinghua University
-    date_start: 2015-08-31
-    date_end: 2019-07-16
+    start: 2019-01-01
+    end: 2024-01-01
     summary: |
-      - Major focus: Mathematics, Statistics, Optimization.
-      - Courses included: Statistical Inference, Numerical Analysis, Algorithm Analysis and Design, Convex Optimization.
+      - GPA: 3.98/4.0, Rank: 1/49
+  - degree: Researcher
+    institution: University of Oxford
+    start: 2022-01-01
+    end: 2023-01-01
+  - degree: B.S. in Mathematics
+    institution: Tsinghua University
+    start: 2015-01-01
+    end: 2019-01-01
+  - degree: Researcher
+    institution: Yale University
+    start: 2018-01-01
+    end: 2018-01-01
+
+
 
   
 work:
