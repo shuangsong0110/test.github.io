@@ -51,7 +51,7 @@ education:
   - area: Postdoctoral Researcher
     institution: Harvard University
     date_start: 2024-01-01
-    date_end: 2024-01-01
+    date_end: 2024-01-02
 
 
 
