@@ -52,27 +52,7 @@ education:
     institution: Harvard University
     date_start: 2024-01-01
     date_end: 2024-01-01
-    #end: '2024'
-    #date_display: '2024 - Present'
-    #summary: '2022 - Present'  
-  - area: Ph.D. in Statistics
-    institution: Tsinghua University
-    date_start: 2019-01-01
-    date_end: 2024-01-01
-    summary: |
-      - GPA: 3.98/4.0, Rank: 1/49
-  - area: Researcher
-    institution: University of Oxford
-    date_start: 2022-01-01
-    date_end: 2023-01-01
-  - area: B.S. in Mathematics
-    institution: Tsinghua University
-    date_start: 2015-01-01
-    date_end: 2019-01-01
-  - area: Researcher
-    institution: Yale University
-    date_start: 2018-01-01
-    date_end: 2018-01-01
+
 
 
 
