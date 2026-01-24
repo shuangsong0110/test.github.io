@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: Postdoctoral Researcher
-    institution: <strong>Harvard University</strong> (2024 - Present)
+    institution: Harvard Universit (2024 - Present)
     date_start: 2024-01-01
     date_end: 2024-01-02
     #end: '2024'
