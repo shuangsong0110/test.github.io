@@ -1,11 +1,14 @@
-
-/* 重置整行的粗细 */
+/* 让整行正常显示 */
 .description p.text-sm {
   font-weight: normal;
 }
 
-/* 用伪元素在前面添加加粗的学校名 */
-.description p.text-sm::before {
-  content: attr(data-institution);
+/* 只让前面的部分加粗（通过覆盖第一个文本节点） */
+.description p.text-sm {
   font-weight: 700;
+  display: inline;
+}
+
+.description p.text-sm::after {
+  font-weight: normal;
 }
