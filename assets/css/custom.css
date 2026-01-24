@@ -1,4 +1,11 @@
-/* 让教育背景中的机构名称所在行加粗 */
+
+/* 重置整行的粗细 */
 .description p.text-sm {
+  font-weight: normal;
+}
+
+/* 用伪元素在前面添加加粗的学校名 */
+.description p.text-sm::before {
+  content: attr(data-institution);
   font-weight: 700;
 }
