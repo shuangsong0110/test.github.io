@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: Postdoctoral Researcher
-    institution: Harvard Universit (2024 - Present)
+    institution: Harvard University (2024 - Present)
     date_start: 2024-01-01
     date_end: 2024-01-02
     #end: '2024'
@@ -78,33 +78,16 @@ education:
 
   
 work:
-  - position: Machine Learning Research Fellow
-    company_name: Biogen
-    company_url: 'https://www.biogen.com/'
-    company_logo: 'Biogen_logo.svg.png'
-    date_start: 2025-02-17
-    date_end: ''
-    summary: |
-      - AI-aided drug design
-      - Generative AI for small molecule design
-  - position: Research Trainee
-    company_name: Brigham and Woman’s Hospital & Harvard Medical School
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-08-01
-    date_end: 2024-08-01
-    summary: |2-
-      - Detected and evaluated fairness and bias in healthcare AI decision systems.
-      - Improved reliability and interpretability of healthcare AI models using EHR data across ML models and LLMs.
-  - position: Algorithm Intern 
-    company_name: XtalPi Inc.
-    company_url: 'https://en.xtalpi.com/'
-    company_logo: ''
-    date_start: 2019-07-22
-    date_end: 2019-12-31
-    summary: |
-      - Implemented a transformer-like architecture for retrosynthetic reaction path prediction.
-      - Improved model architectures and training strategies. Refined the pipeline of reaction prediction.
+  - position: Algorithm Intern
+    company_name: Kuang-chi Institute of Advanced Science and Technology
+    #company_url: 'https://www.biogen.com/'
+    #company_logo: 'Biogen_logo.svg.png'
+    date_start: 2021-06
+    date_end: 2021-08
+    #summary: |
+    #  - AI-aided drug design
+    #  - Generative AI for small molecule design
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,10 +119,10 @@ skills:
         #description: 'Big fan of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, and Animal Crossing. Next pull you will get a 5-star item!'
         #percent: 100
         icon: ''
-      - name: Singing
+      #- name: Singing
         #description: 'Used to be a soprano in the Chorus Team of the Tsinghua University Student Art Troupe.'
         #percent: 100
-        icon: ''
+      #  icon: ''
 #languages:
   #- name: English
   #  description: Fluent
