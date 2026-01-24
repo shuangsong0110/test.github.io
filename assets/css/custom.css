@@ -1,0 +1,4 @@
+/* 让教育背景中的机构名称所在行加粗 */
+.description p.text-sm {
+  font-weight: 700;
+}
