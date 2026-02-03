@@ -1,6 +1,6 @@
 ---
 title:  🎉 Our paper "Participation bias in the estimation of heritability and genetic correlation" is published on PNAS!
-summary: "https://www.pnas.org/doi/abs/10.1073/pnas.2425530122"
+summary: '<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2425530122" target="_blank">Read the paper</a>'
 date: 2025-06-24
 authors:
   - admin
